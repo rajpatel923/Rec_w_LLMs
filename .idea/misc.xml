@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.9 (TrafficGPT)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (TrafficGPT)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="/opt/anaconda3/envs/Movie_rec" project-jdk-type="Python SDK" />
 </project>
